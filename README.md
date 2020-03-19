@@ -1,4 +1,4 @@
-# VPS Scripts
+# Scripts
 
 ### Cron
 * Import music into funkwhale, hourly
